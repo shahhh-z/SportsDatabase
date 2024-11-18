@@ -25,7 +25,7 @@ int main() {
 
   // Display the program header.
   printf("*************************\n" \
-         "* 2211 Summer Olympics! *\n" \
+         "* 2024 Summer Olympics! *\n" \
          "*************************\n");
 
   while (true) {
