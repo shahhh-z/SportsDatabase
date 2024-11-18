@@ -2,7 +2,7 @@
  Name: sport_db.c
  Purpose: Main function that allows the user to perform
           operations on the event and athlete databases.
- Author: Shahob Zekria (251372860)
+ Author: Shahob Zekria
 */
 
 
