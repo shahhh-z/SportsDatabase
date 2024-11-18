@@ -1,7 +1,7 @@
 This is my implementation of a sports database.
 
 This database allows users to...
- - Manage athletes, events, and athlete-event relationships through an extensive interface.
+ - Manage and access athletes, events, and athlete-event relationships through an extensive interface.
  - Upload/download the database for future use.
 
 In order to run the program on your own, you must compile it then execute the compiled program.
