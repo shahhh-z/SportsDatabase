@@ -1,7 +1,7 @@
 /*
  Name: sport_db.c
  Purpose: Header file for the event program.
- Author: Shahob Zekria (251372860)
+ Author: Shahob Zekria
 */
 
 #ifndef SPORT_DB_EVENT
