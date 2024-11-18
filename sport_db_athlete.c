@@ -3,7 +3,7 @@
  Purpose: Hosts a database of athlete information and
           contains functions that alter and display
           athlete information.
- Author: Shahob Zekria (251372860)
+ Author: Shahob Zekria
 */
 
 
